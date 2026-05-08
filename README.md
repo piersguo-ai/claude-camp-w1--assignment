@@ -1,1 +1,1 @@
-# claude-camp-w1--
+Assignment for Claude Camp Week 1 
